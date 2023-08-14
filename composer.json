@@ -1,0 +1,51 @@
+{
+    "name": "iss/laravel-maya-sdk",
+    "description": "Laravel Package for Maya SDK",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "7.7.x-dev"
+    },
+    "require-dev": {
+        "orchestra/testbench": "6.x-dev",
+        "barryvdh/laravel-ide-helper": "2.13.x-dev",
+        "nunomaduro/collision": "v5.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Iss\\LaravelMayaSdk\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Iss\\LaravelMayaSdk\\Tests\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jerson",
+            "email": "jerson@innovativesprout.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "scripts": {
+        "test": "phpunit",
+        "format": "php-cs-fixer fix --allow-risky=yes",
+        "analyse": "phpstan analyse",
+        "post-update-cmd": [
+            "Illuminate\\Foundation\\ComposerScripts::postUpdate",
+            "@php artisan ide-helper:generate",
+            "@php artisan ide-helper:meta"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Barryvdh\\Debugbar\\ServiceProvider"
+            ],
+            "aliases": {
+                "Debugbar": "Barryvdh\\Debugbar\\Facade"
+            }
+        }
+    }
+}
