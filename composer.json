@@ -3,7 +3,7 @@
     "description": "Laravel Package for Maya SDK",
     "type": "library",
     "require": {
-        "guzzlehttp/guzzle": "7.7.x-dev"
+        "guzzlehttp/guzzle": "7.7.0"
     },
     "require-dev": {
         "orchestra/testbench": "6.x-dev",
