@@ -14,7 +14,7 @@
     <a href="https://github.com/innovativesprout/laravel-maya-sdk/issues">Request Feature</a>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/innovativesprout/laravel-maya-sdk/total) ![Contributors](https://img.shields.io/github/contributors/innovativesprout/laravel-maya-sdk?color=dark-green) ![Issues](https://img.shields.io/github/issues/innovativesprout/laravel-maya-sdk) ![License](https://img.shields.io/github/license/innovativesprout/laravel-maya-sdk)
+![Downloads](https://img.shields.io/github/downloads/innovativesprout/laravel-maya-sdk/total) ![Contributors](https://img.shields.io/github/contributors/innovativesprout/laravel-maya-sdk?color=dark-green) ![Issues](https://img.shields.io/github/issues/innovativesprout/laravel-maya-sdk) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/innovativesprout/laravel-maya-sdk/blob/main/LICENSE.md)
 
 ## Table Of Contents
 
