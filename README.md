@@ -14,7 +14,7 @@
     <a href="https://github.com/innovativesprout/laravel-maya-sdk/issues">Request Feature</a>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/innovativesprout/laravel-maya-sdk/total) ![Contributors](https://img.shields.io/github/contributors/innovativesprout/laravel-maya-sdk?color=dark-green) ![Issues](https://img.shields.io/github/issues/innovativesprout/laravel-maya-sdk) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/innovativesprout/laravel-maya-sdk/blob/main/LICENSE.md) [![Laravel](https://github.com/innovativesprout/laravel-maya-sdk/actions/workflows/laravel.yml/badge.svg?branch=main)](https://github.com/innovativesprout/laravel-maya-sdk/actions/workflows/laravel.yml)
+![Downloads](https://img.shields.io/github/downloads/innovativesprout/laravel-maya-sdk/total) ![Contributors](https://img.shields.io/github/contributors/innovativesprout/laravel-maya-sdk?color=dark-green) ![Issues](https://img.shields.io/github/issues/innovativesprout/laravel-maya-sdk) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/innovativesprout/laravel-maya-sdk/blob/main/LICENSE.md) [![Laravel](https://github.com/innovativesprout/laravel-maya-sdk/actions/workflows/laravel.yml/badge.svg)](https://github.com/innovativesprout/laravel-maya-sdk/actions/workflows/laravel.yml)
 
 ## Table Of Contents
 
